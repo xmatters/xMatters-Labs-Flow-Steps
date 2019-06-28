@@ -16,5 +16,6 @@ Welcome to xMatters Labs, Flow Designer edition.
 This is a repository in the same spirit as the [xMatters Labs](https://github.com/xmatters/xMatters-Labs), but with a focus on custom Flow Designer steps. 
 
 # Contributing
+To contribute a new custom step, write up a new repo and use the [xm-labs-step-template](https://github.com/xmatters/xm-labs-step-template), then send a request to `xMTinkerer` for inclusion below. 
 
 # Contents
