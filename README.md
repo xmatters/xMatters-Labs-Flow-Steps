@@ -19,3 +19,7 @@ This is a repository in the same spirit as the [xMatters Labs](https://github.co
 To contribute a new custom step, write up a new repo and use the [xm-labs-step-template](https://github.com/xmatters/xm-labs-step-template), then send a request to `xMTinkerer` for inclusion below. 
 
 # Contents
+
+* [Facebook Workplace - Post to Workplace](https://github.com/xmatters/xm-labs-step-workplace-post)
+* [MS Teams - Create Channel](https://github.com/xmatters/xm-labs-step-msteam-channels)
+
