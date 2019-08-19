@@ -21,7 +21,12 @@ To contribute a new custom step, write up a new repo and use the [xm-labs-step-t
 # Contents
 
 * [Facebook Workplace - Post to Workplace](https://github.com/xmatters/xm-labs-step-workplace-post)
+* [Github - Get Commit Details](https://github.com/xmatters/xm-labs-steps-github)
+* [Jenkins - Trigger Build](https://github.com/xmatters/xm-labs-steps-jenkins)
 * [MS Teams - Create Channel](https://github.com/xmatters/xm-labs-step-msteam-channels)
 * [Splunk - Send to HEC](https://github.com/xmatters/xm-labs-step-splunk)
+* [Zoom - Create Conference](https://github.com/xmatters/xm-labs-steps-zoom)
+
+
 
 
