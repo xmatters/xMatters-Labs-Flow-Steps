@@ -20,6 +20,8 @@ To contribute a new custom step, write up a new repo and use the [xm-labs-step-t
 
 # Contents
 
+* **Ansible**
+   * [Trigger Playbook](https://github.com/xmatters/xm-labs-steps-ansible)
 * **Facebook**
    * [Post to Workplace](https://github.com/xmatters/xm-labs-step-workplace-post)
 * **Github**
