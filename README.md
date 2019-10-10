@@ -25,7 +25,7 @@ To contribute a new custom step, write up a new repo and use the [xm-labs-step-t
 * **Facebook**
    * [Post to Workplace](https://github.com/xmatters/xm-labs-step-workplace-post)
 * **Github**
-   * [Get Commit Details](https://github.com/xmatters/xm-labs-steps-github)
+   * [Get Commit Details](https://github.com/xmatters/xm-labs-step-github)
 * **Jenkins**
    * [Trigger Build](https://github.com/xmatters/xm-labs-steps-jenkins)
 * **Microsoft Teams**
