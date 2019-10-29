@@ -32,10 +32,10 @@ To contribute a new custom step, write up a new repo and use the [xm-labs-step-t
    * [Create Channel](https://github.com/xmatters/xm-labs-step-msteam-channels)
 * **Splunk**
    * [Send to HEC](https://github.com/xmatters/xm-labs-step-splunk)
-* **xMatters**
-   * [All API Operations](https://github.com/xmatters/xm-labs-xMatters-API-Flow-Steps)
 * **WebEx Teams**
    * [Create a room](https://github.com/xmatters/xm-labs-steps-webex)
+* **xMatters**
+   * [All API Operations](https://github.com/xmatters/xm-labs-xMatters-API-Flow-Steps)
 * **Zoom**
    * [Create Conference](https://github.com/xmatters/xm-labs-steps-zoom)
 
