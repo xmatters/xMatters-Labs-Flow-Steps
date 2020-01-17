@@ -32,6 +32,8 @@ To contribute a new custom step, write up a new repo and use the [xm-labs-step-t
    * [Create Channel](https://github.com/xmatters/xm-labs-step-msteam-channels)
 * **Splunk**
    * [Send to HEC](https://github.com/xmatters/xm-labs-step-splunk)
+* **Status.io**
+   * [Interact with Incidents](https://github.com/xmatters/xm-labs-statusio-steps)
 * **WebEx Conferencing**
    * [Create a room](https://github.com/xmatters/xm-labs-steps-webex)
 * **WebEx Teams**
