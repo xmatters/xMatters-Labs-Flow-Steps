@@ -42,8 +42,8 @@ To contribute a new custom step, write up a new repo and use the [xm-labs-step-t
    * [All API Operations](https://github.com/xmatters/xm-labs-xMatters-API-Flow-Steps)
 * **Zoom**
    * [Create Conference](https://github.com/xmatters/xm-labs-steps-zoom)
+   
+# Utilities
 
-
-
-
-
+* **Is it business time?** - checks if the current time in the given timezone is between the given business hours and returns Yes or No. 
+   * [Business Time](https://github.com/xmatters/xm-labs-steps-business-time)
