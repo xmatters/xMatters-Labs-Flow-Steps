@@ -30,6 +30,8 @@ To contribute a new custom step, write up a new repo and use the [xm-labs-step-t
    * [Trigger Build](https://github.com/xmatters/xm-labs-steps-jenkins)
 * **Microsoft Teams**
    * [Create Channel](https://github.com/xmatters/xm-labs-step-msteam-channels)
+* **ServiceNow**
+   * [Get Record](https://github.com/xmatters/xm-labs-steps-servicenow)
 * **Splunk**
    * [Send to HEC](https://github.com/xmatters/xm-labs-step-splunk)
 * **Status.io**
