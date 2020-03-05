@@ -32,6 +32,8 @@ To contribute a new custom step, write up a new repo and use the [xm-labs-step-t
    * [Create Channel](https://github.com/xmatters/xm-labs-step-msteam-channels)
 * **ServiceNow**
    * [Get Record](https://github.com/xmatters/xm-labs-steps-servicenow)
+* **Slack**
+   * [Parse Slash Command](https://github.com/xmatters/xm-labs-steps-slack-slash-command)
 * **Splunk**
    * [Send to HEC](https://github.com/xmatters/xm-labs-step-splunk)
 * **Status.io**
@@ -42,6 +44,7 @@ To contribute a new custom step, write up a new repo and use the [xm-labs-step-t
    * [All the Steps](https://github.com/xmatters/xm-labs-xMatters-Webex-Teams-Flow-Steps)
 * **xMatters**
    * [All API Operations](https://github.com/xmatters/xm-labs-xMatters-API-Flow-Steps)
+   * [Put me on call](https://github.com/xmatters/xm-labs-steps-xmimoncall)
 * **Zoom**
    * [Create Conference](https://github.com/xmatters/xm-labs-steps-zoom)
    
