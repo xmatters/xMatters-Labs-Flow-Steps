@@ -35,6 +35,7 @@ To contribute a new custom step, write up a new repo and use the [xm-labs-step-t
 * **Slack**
    * [Parse Slash Command](https://github.com/xmatters/xm-labs-steps-slack-slash-command)
    * [Pin Message](https://github.com/xmatters/xm-labs-steps-slack-pin-message)
+   * [Other steps](https://github.com/xmatters/xm-labs-slack-steps)
 * **Splunk**
    * [Send to HEC](https://github.com/xmatters/xm-labs-step-splunk)
 * **Status.io**
