@@ -42,6 +42,8 @@ To contribute a new custom step, write up a new repo and use the [xm-labs-step-t
    * [Other steps](https://github.com/xmatters/xm-labs-slack-steps)
 * **Splunk**
    * [Send to HEC](https://github.com/xmatters/xm-labs-step-splunk)
+* **StackStorm**
+   * [Post webhook](https://github.com/xmatters/xm-labs-steps-stackstorm)
 * **Status.io**
    * [Interact with Incidents](https://github.com/xmatters/xm-labs-statusio-steps)
 * **WebEx Conferencing**
