@@ -22,6 +22,8 @@ To contribute a new custom step, write up a new repo and use the [xm-labs-step-t
 
 * **Ansible**
    * [Trigger Playbook](https://github.com/xmatters/xm-labs-steps-ansible)
+* **Atlassian**
+   * [Post to Confluence](https://github.com/xmatters/xm-labs-steps-confluence)
 * **CircleCi**
    * [Trigger Build](https://github.com/xmatters/xm-labs-steps-circleci)
 * **Facebook**
@@ -37,6 +39,7 @@ To contribute a new custom step, write up a new repo and use the [xm-labs-step-t
 * **ServiceNow**
    * [Get Record](https://github.com/xmatters/xm-labs-steps-servicenow)
 * **Slack**
+   * [Get Conversation](https://github.com/xmatters/xm-labs-steps-slack-get-conversation)
    * [Parse Slash Command](https://github.com/xmatters/xm-labs-steps-slack-slash-command)
    * [Pin Message](https://github.com/xmatters/xm-labs-steps-slack-pin-message)
    * [Other steps](https://github.com/xmatters/xm-labs-slack-steps)
