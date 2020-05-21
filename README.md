@@ -26,6 +26,8 @@ To contribute a new custom step, write up a new repo and use the [xm-labs-step-t
    * [Post to Confluence](https://github.com/xmatters/xm-labs-steps-confluence)
 * **CircleCi**
    * [Trigger Build](https://github.com/xmatters/xm-labs-steps-circleci)
+* **Consul**
+   * [GET and PUT KV](https://github.com/xmatters/xm-labs-steps-consul)
 * **Facebook**
    * [Post to Workplace](https://github.com/xmatters/xm-labs-step-workplace-post)
 * **Github**
