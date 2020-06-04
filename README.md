@@ -51,6 +51,8 @@ To contribute a new custom step, write up a new repo and use the [xm-labs-step-t
    * [Post webhook](https://github.com/xmatters/xm-labs-steps-stackstorm)
 * **Status.io**
    * [Interact with Incidents](https://github.com/xmatters/xm-labs-statusio-steps)
+* **TravisCI**
+   * [Trigger Job](https://github.com/xmatters/xm-labs-steps-travis-ci)
 * **WebEx Conferencing**
    * [Create a room](https://github.com/xmatters/xm-labs-steps-webex)
 * **WebEx Teams**
