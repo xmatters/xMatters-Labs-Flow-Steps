@@ -34,8 +34,6 @@ To contribute a new custom step, write up a new repo and use the [xm-labs-step-t
    * [Get Commit Details](https://github.com/xmatters/xm-labs-step-github)
 * **GitLab**
    * [Get Commit Details](https://github.com/xmatters/xm-labs-gitlab)
-* **Jenkins**
-   * [Trigger Build](https://github.com/xmatters/xm-labs-steps-jenkins)
 * **Microsoft Teams**
    * [Create Channel](https://github.com/xmatters/xm-labs-step-msteam-channels)
 * **ServiceNow**
