@@ -36,6 +36,8 @@ To contribute a new custom step, write up a new repo and use the [xm-labs-step-t
    * [Get Commit Details](https://github.com/xmatters/xm-labs-gitlab)
 * **Microsoft Teams**
    * [Create Channel](https://github.com/xmatters/xm-labs-step-msteam-channels)
+* **RabbitMQ**
+   * [Get Queue Info](https://github.com/xmatters/xm-labs-steps-rabbitmq)
 * **ServiceNow**
    * [Get Record](https://github.com/xmatters/xm-labs-steps-servicenow)
 * **Slack**
