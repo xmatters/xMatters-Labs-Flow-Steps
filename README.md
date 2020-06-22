@@ -36,6 +36,8 @@ To contribute a new custom step, write up a new repo and use the [xm-labs-step-t
    * [Get Commit Details](https://github.com/xmatters/xm-labs-step-github)
 * **GitLab**
    * [Get Commit Details](https://github.com/xmatters/xm-labs-gitlab)
+* **Google Cloud Run**
+   * [Manage Traffic](https://github.com/xmatters/xm-labs-steps-cloud-run)
 * **Kubernetes**
    * [Kubectl from xMatters](https://github.com/xmatters/xm-labs-steps-kubernetes)
 * **Microsoft Teams**
