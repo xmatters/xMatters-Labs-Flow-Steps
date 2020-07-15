@@ -24,6 +24,8 @@ To contribute a new custom step, write up a new repo and use the [xm-labs-step-t
    * [Trigger Playbook](https://github.com/xmatters/xm-labs-steps-ansible)
 * **Atlassian**
    * [Post to Confluence](https://github.com/xmatters/xm-labs-steps-confluence)
+* **Bugzilla**
+   * [Create issue in BMO](https://github.com/xmatters/xm-labs-steps-bmo)
 * **CircleCi**
    * [Trigger Build](https://github.com/xmatters/xm-labs-steps-circleci)
 * **Consul**
