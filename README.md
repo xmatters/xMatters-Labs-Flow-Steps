@@ -76,5 +76,8 @@ To contribute a new custom step, write up a new repo and use the [xm-labs-step-t
    
 # Utilities
 
+
 * **Is it business time?** - checks if the current time in the given timezone is between the given business hours and returns Yes or No. 
    * [Business Time](https://github.com/xmatters/xm-labs-steps-business-time)
+* **Moment**
+   * [Convert Date/Time zone and format](https://github.com/xmatters/xm-labs-steps-moment)
