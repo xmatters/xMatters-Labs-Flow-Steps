@@ -43,7 +43,7 @@ To contribute a new custom step, write up a new repo and use the [xm-labs-step-t
 * **Kubernetes**
    * [Kubectl from xMatters](https://github.com/xmatters/xm-labs-steps-kubernetes)
 * **Microsoft Teams**
-   * [Create Channel](https://github.com/xmatters/xm-labs-step-msteam-channels)
+   * [Assorted Steps](https://github.com/xmatters/xm-labs-steps-microsoft-teams)
 * **RabbitMQ**
    * [Get Queue Info](https://github.com/xmatters/xm-labs-steps-rabbitmq)
 * **ServiceNow**
