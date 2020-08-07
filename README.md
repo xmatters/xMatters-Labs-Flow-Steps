@@ -42,8 +42,12 @@ To contribute a new custom step, write up a new repo and use the [xm-labs-step-t
    * [Manage Traffic](https://github.com/xmatters/xm-labs-steps-cloud-run)
 * **Kubernetes**
    * [Kubectl from xMatters](https://github.com/xmatters/xm-labs-steps-kubernetes)
+* **[Loggly]**
+   * [Retrieve and Send Data](https://github.com/xmatters/xm-labs-steps-loggly)
 * **Microsoft Teams**
    * [Assorted Steps](https://github.com/xmatters/xm-labs-steps-microsoft-teams)
+* **Mattersmost**
+   * [Assorted Steps](https://github.com/xmatters/xm-labs-steps-mattermost)
 * **RabbitMQ**
    * [Get Queue Info](https://github.com/xmatters/xm-labs-steps-rabbitmq)
 * **ServiceNow**
