@@ -26,6 +26,8 @@ To contribute a new custom step, write up a new repo and use the [xm-labs-step-t
    * [Post to Confluence](https://github.com/xmatters/xm-labs-steps-confluence)
 * **Bugzilla**
    * [Create issue in BMO](https://github.com/xmatters/xm-labs-steps-bmo)
+* **Cachet**
+   * [Incidents and Components](https://github.com/xmatters/xm-labs-cachet)
 * **CircleCi**
    * [Trigger Build](https://github.com/xmatters/xm-labs-steps-circleci)
 * **Consul**
