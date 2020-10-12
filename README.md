@@ -28,6 +28,8 @@ To contribute a new custom step, write up a new repo and use the [xm-labs-step-t
    * [Create issue in BMO](https://github.com/xmatters/xm-labs-steps-bmo)
 * **Cachet**
    * [Incidents and Components](https://github.com/xmatters/xm-labs-cachet)
+* **Cherwell**
+   * [Create and Annotate Incidents](https://github.com/xmatters/xm-labs-steps-cherwell)
 * **CircleCi**
    * [Trigger Build](https://github.com/xmatters/xm-labs-steps-circleci)
 * **Consul**
