@@ -58,6 +58,7 @@ To contribute a new custom step, write up a new repo and use the [xm-labs-step-t
    * [Get Queue Info](https://github.com/xmatters/xm-labs-steps-rabbitmq)
 * **ServiceNow**
    * [Get Record](https://github.com/xmatters/xm-labs-steps-servicenow)
+   * [Get Changes](https://github.com/xmatters/xm-labs-servicenow-get-changes)
 * **Slack**
    * [Get Conversation](https://github.com/xmatters/xm-labs-steps-slack-get-conversation)
    * [Parse Slash Command](https://github.com/xmatters/xm-labs-steps-slack-slash-command)
@@ -81,6 +82,8 @@ To contribute a new custom step, write up a new repo and use the [xm-labs-step-t
    * [All API Operations](https://github.com/xmatters/xm-labs-xMatters-API-Flow-Steps)
    * [Is it business time](https://github.com/xmatters/xm-labs-steps-business-time)
    * [Put me on call](https://github.com/xmatters/xm-labs-steps-xmimoncall)
+   * [Handy Flow Steps](https://github.com/xmatters/xm-labs-handy-flow-steps)
+   * [Misc Flow Steps](https://github.com/xmatters/xMatters-Labs-Flow-Steps)
 * **Zoom**
    * [Create Conference](https://github.com/xmatters/xm-labs-steps-zoom)
    
